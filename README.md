@@ -39,6 +39,8 @@
 
 #### **Databases**
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/sql%20server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
+
 
 #### **Tools**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
