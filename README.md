@@ -13,7 +13,7 @@
 ---
 
 ### 🧑‍💻 &nbsp;About Me
-- 👨‍🎓 **Software Engineering student** at the National Technical University.  
+- 👨‍🎓 **Software Engineering student** at the Universidad Tecnica Nacional.  
 - 🚀 Passionate about **technology and development.**  
 - 🎨 Enthusiastic about designing **intuitive, user-friendly interfaces.**  
 - 📚 Always exploring **new languages, tools, and techniques** to enhance my skills.  
