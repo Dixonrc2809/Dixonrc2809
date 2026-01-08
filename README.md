@@ -35,6 +35,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![Razor](https://img.shields.io/badge/Razor-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 
 
 #### **Databases**
